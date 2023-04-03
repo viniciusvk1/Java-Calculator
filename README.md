@@ -27,4 +27,4 @@ Contributions are welcome! If you find a bug or have a feature request, please o
 
 ### *Image of the program running*
 
-![Calculator](img/Calculator.png)
+![Calculator](images/Calculator.png)
