@@ -24,3 +24,7 @@ Future improvements to this project could include adding more advanced mathemati
 ### *Contributing*
 
 Contributions are welcome! If you find a bug or have a feature request, please open an issue or submit a pull request.
+
+### *Image of the program running*
+
+![Calculator](image/Calculator.png)
