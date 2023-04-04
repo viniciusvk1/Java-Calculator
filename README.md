@@ -6,12 +6,10 @@ This is a basic calculator project in Java with a graphical user interface creat
 
 The calculator has the following features:
 
-Addition, subtraction, multiplication, and division operations
-Decimal point and negative number input
-Clear and delete functions
-Continuous calculation by pressing equals multiple times
-How to Run
-To run the calculator, compile and run the Calculator.java file in a Java IDE or command prompt. A window with the calculator interface will appear.
+Addition, subtraction, multiplication, and division operations.
+Decimal point and negative number input.
+Clear and delete functions.
+Continuous calculation by pressing equals multiple times.
 
 ### *How to Use*
 
